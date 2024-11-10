@@ -1,1 +1,1 @@
-# BHOS - Lab 1/2 exercises
+# BHOS - Lab exercises
